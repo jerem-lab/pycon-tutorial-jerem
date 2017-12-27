@@ -18,5 +18,3 @@ For example, if you execute::
 in the ``doc/`` subdirectory, you will get the output::
 
    67      13      3       in 1 files
-
-Note that you're are lohink my first python documentation ;)
